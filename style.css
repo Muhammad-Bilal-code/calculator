@@ -1,0 +1,7 @@
+.calculator{ width: 300px; margin: 20px auto; background-color: gray; border:
+    2px solid black; padding: 10px; } .disp input{ width: 90%; padding: 10px;
+    font-size: 1.2em; background-color: lightgrey; border: none; outline: none;
+    text-align: right; } .btnParent{ text-align: center; } .btnParent button{ width:
+    60px; height: 60px; text-align: center; background-color: black; color: white;
+    font-size: 1.5em; margin: 5px; border: none; border-radius: 10px; padding: 10px;
+    } .btnParent button:hover{ background-color: orange; color: black; } Javascript
